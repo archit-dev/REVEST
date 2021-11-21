@@ -205,7 +205,7 @@ for(i=0;i<propertyList.length;i++)
             <li class="list-group-item">Minimum Investment <span id="minimumInvestment">${propertyList[i].minimumInvestment}</span></li>
         </ul>
         <div class="d-grid gap-2 col-6 mx-auto my-3">
-            <button class="btn btn-primary" type="button">More Details</button>
+            <button class="btn btn-primary" type="button" onclick="location.href='/moredetailspage.html';">More Details</button>
           </div>
     </div>
     
