@@ -191,7 +191,7 @@ for(i=0;i<propertyList.length;i++)
 
    
     
-    <div class="card my-5 mx-5" id="cardId${i}" style="width: 20rem;">
+    <div class="card my-5 mx-2" id="cardId${i}" style="width: 20rem;">
         <img src="${propertyList[i].imageURL}"
             class="card-img-top" alt="...">
         <div class="card-body">
