@@ -1,197 +1,214 @@
 let propertyList = [
-    {
-        propertyName:"ABC Nivas, Mumbai",
-        offeredBy:"Offered By XYZ Development Group LLC",
-        targetIRR:"21%",
-        imageURL:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        targetEquityMultiple:"2.01x",
-        targetHoldPeriod:"4 Years",
-        minimumInvestment:"5 Lakhs"
-        
-    },{
-        propertyName:"ABC Nivas, Mumbai",
-        offeredBy:"Offered By XYZ Development Group LLC",
-        targetIRR:"21%",
-        imageURL:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        targetEquityMultiple:"2.01x",
-        targetHoldPeriod:"4 Years",
-        minimumInvestment:"5 Lakhs"
-        
-    },{
-        propertyName:"ABC Nivas, Mumbai",
-        offeredBy:"Offered By XYZ Development Group LLC",
-        targetIRR:"21%",
-        imageURL:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        targetEquityMultiple:"2.01x",
-        targetHoldPeriod:"4 Years",
-        minimumInvestment:"5 Lakhs"
-        
-    },{
-        propertyName:"ABC Nivas, Mumbai",
-        offeredBy:"Offered By XYZ Development Group LLC",
-        targetIRR:"21%",
-        imageURL:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        targetEquityMultiple:"2.01x",
-        targetHoldPeriod:"4 Years",
-        minimumInvestment:"5 Lakhs"
-        
-    },{
-        propertyName:"ABC Nivas, Mumbai",
-        offeredBy:"Offered By XYZ Development Group LLC",
-        targetIRR:"21%",
-        imageURL:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        targetEquityMultiple:"2.01x",
-        targetHoldPeriod:"4 Years",
-        minimumInvestment:"5 Lakhs"
-        
-    },{
-        propertyName:"ABC Nivas, Mumbai",
-        offeredBy:"Offered By XYZ Development Group LLC",
-        targetIRR:"21%",
-        imageURL:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        targetEquityMultiple:"2.01x",
-        targetHoldPeriod:"4 Years",
-        minimumInvestment:"5 Lakhs"
-        
-    },{
-        propertyName:"ABC Nivas, Mumbai",
-        offeredBy:"Offered By XYZ Development Group LLC",
-        targetIRR:"21%",
-        imageURL:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        targetEquityMultiple:"2.01x",
-        targetHoldPeriod:"4 Years",
-        minimumInvestment:"5 Lakhs"
-        
-    },{
-        propertyName:"ABC Nivas, Mumbai",
-        offeredBy:"Offered By XYZ Development Group LLC",
-        targetIRR:"21%",
-        imageURL:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        targetEquityMultiple:"2.01x",
-        targetHoldPeriod:"4 Years",
-        minimumInvestment:"5 Lakhs"
-        
-    },{
-        propertyName:"ABC Nivas, Mumbai",
-        offeredBy:"Offered By XYZ Development Group LLC",
-        targetIRR:"21%",
-        imageURL:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        targetEquityMultiple:"2.01x",
-        targetHoldPeriod:"4 Years",
-        minimumInvestment:"5 Lakhs"
-        
-    },{
-        propertyName:"ABC Nivas, Mumbai",
-        offeredBy:"Offered By XYZ Development Group LLC",
-        targetIRR:"21%",
-        imageURL:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        targetEquityMultiple:"2.01x",
-        targetHoldPeriod:"4 Years",
-        minimumInvestment:"5 Lakhs"
-        
-    },{
-        propertyName:"ABC Nivas, Mumbai",
-        offeredBy:"Offered By XYZ Development Group LLC",
-        targetIRR:"21%",
-        imageURL:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        targetEquityMultiple:"2.01x",
-        targetHoldPeriod:"4 Years",
-        minimumInvestment:"5 Lakhs"
-        
-    },{
-        propertyName:"ABC Nivas, Mumbai",
-        offeredBy:"Offered By XYZ Development Group LLC",
-        targetIRR:"21%",
-        imageURL:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        targetEquityMultiple:"2.01x",
-        targetHoldPeriod:"4 Years",
-        minimumInvestment:"5 Lakhs"
-        
-    },{
-        propertyName:"ABC Nivas, Mumbai",
-        offeredBy:"Offered By XYZ Development Group LLC",
-        targetIRR:"21%",
-        imageURL:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        targetEquityMultiple:"2.01x",
-        targetHoldPeriod:"4 Years",
-        minimumInvestment:"5 Lakhs"
-        
-    },{
-        propertyName:"ABC Nivas, Mumbai",
-        offeredBy:"Offered By XYZ Development Group LLC",
-        targetIRR:"21%",
-        imageURL:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        targetEquityMultiple:"2.01x",
-        targetHoldPeriod:"4 Years",
-        minimumInvestment:"5 Lakhs"
-        
-    },{
-        propertyName:"ABC Nivas, Mumbai",
-        offeredBy:"Offered By XYZ Development Group LLC",
-        targetIRR:"21%",
-        imageURL:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        targetEquityMultiple:"2.01x",
-        targetHoldPeriod:"4 Years",
-        minimumInvestment:"5 Lakhs"
-        
-    },{
-        propertyName:"ABC Nivas, Mumbai",
-        offeredBy:"Offered By XYZ Development Group LLC",
-        targetIRR:"21%",
-        imageURL:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        targetEquityMultiple:"2.01x",
-        targetHoldPeriod:"4 Years",
-        minimumInvestment:"5 Lakhs"
-        
-    },{
-        propertyName:"ABC Nivas, Mumbai",
-        offeredBy:"Offered By XYZ Development Group LLC",
-        targetIRR:"21%",
-        imageURL:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        targetEquityMultiple:"2.01x",
-        targetHoldPeriod:"4 Years",
-        minimumInvestment:"5 Lakhs"
-        
-    },{
-        propertyName:"ABC Nivas, Mumbai",
-        offeredBy:"Offered By XYZ Development Group LLC",
-        targetIRR:"21%",
-        imageURL:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        targetEquityMultiple:"2.01x",
-        targetHoldPeriod:"4 Years",
-        minimumInvestment:"5 Lakhs"
-        
-    },{
-        propertyName:"ABC Nivas, Mumbai",
-        offeredBy:"Offered By XYZ Development Group LLC",
-        targetIRR:"21%",
-        imageURL:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        targetEquityMultiple:"2.01x",
-        targetHoldPeriod:"4 Years",
-        minimumInvestment:"5 Lakhs"
-        
-    },{
-        propertyName:"ABC Nivas, Mumbai",
-        offeredBy:"Offered By XYZ Development Group LLC",
-        targetIRR:"21%",
-        imageURL:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        targetEquityMultiple:"2.01x",
-        targetHoldPeriod:"4 Years",
-        minimumInvestment:"5 Lakhs"
-        
-    }
-]
+  {
+    propertyName: "ABC Nivas, Mumbai",
+    offeredBy: "Offered By XYZ Development Group LLC",
+    targetIRR: "21%",
+    imageURL:
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    targetEquityMultiple: "2.01x",
+    targetHoldPeriod: "4 Years",
+    minimumInvestment: "5 Lakhs",
+  },
+  {
+    propertyName: "ABC Nivas, Mumbai",
+    offeredBy: "Offered By XYZ Development Group LLC",
+    targetIRR: "21%",
+    imageURL:
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    targetEquityMultiple: "2.01x",
+    targetHoldPeriod: "4 Years",
+    minimumInvestment: "5 Lakhs",
+  },
+  {
+    propertyName: "ABC Nivas, Mumbai",
+    offeredBy: "Offered By XYZ Development Group LLC",
+    targetIRR: "21%",
+    imageURL:
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    targetEquityMultiple: "2.01x",
+    targetHoldPeriod: "4 Years",
+    minimumInvestment: "5 Lakhs",
+  },
+  {
+    propertyName: "ABC Nivas, Mumbai",
+    offeredBy: "Offered By XYZ Development Group LLC",
+    targetIRR: "21%",
+    imageURL:
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    targetEquityMultiple: "2.01x",
+    targetHoldPeriod: "4 Years",
+    minimumInvestment: "5 Lakhs",
+  },
+  {
+    propertyName: "ABC Nivas, Mumbai",
+    offeredBy: "Offered By XYZ Development Group LLC",
+    targetIRR: "21%",
+    imageURL:
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    targetEquityMultiple: "2.01x",
+    targetHoldPeriod: "4 Years",
+    minimumInvestment: "5 Lakhs",
+  },
+  {
+    propertyName: "ABC Nivas, Mumbai",
+    offeredBy: "Offered By XYZ Development Group LLC",
+    targetIRR: "21%",
+    imageURL:
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    targetEquityMultiple: "2.01x",
+    targetHoldPeriod: "4 Years",
+    minimumInvestment: "5 Lakhs",
+  },
+  {
+    propertyName: "ABC Nivas, Mumbai",
+    offeredBy: "Offered By XYZ Development Group LLC",
+    targetIRR: "21%",
+    imageURL:
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    targetEquityMultiple: "2.01x",
+    targetHoldPeriod: "4 Years",
+    minimumInvestment: "5 Lakhs",
+  },
+  {
+    propertyName: "ABC Nivas, Mumbai",
+    offeredBy: "Offered By XYZ Development Group LLC",
+    targetIRR: "21%",
+    imageURL:
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    targetEquityMultiple: "2.01x",
+    targetHoldPeriod: "4 Years",
+    minimumInvestment: "5 Lakhs",
+  },
+  {
+    propertyName: "ABC Nivas, Mumbai",
+    offeredBy: "Offered By XYZ Development Group LLC",
+    targetIRR: "21%",
+    imageURL:
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    targetEquityMultiple: "2.01x",
+    targetHoldPeriod: "4 Years",
+    minimumInvestment: "5 Lakhs",
+  },
+  {
+    propertyName: "ABC Nivas, Mumbai",
+    offeredBy: "Offered By XYZ Development Group LLC",
+    targetIRR: "21%",
+    imageURL:
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    targetEquityMultiple: "2.01x",
+    targetHoldPeriod: "4 Years",
+    minimumInvestment: "5 Lakhs",
+  },
+  {
+    propertyName: "ABC Nivas, Mumbai",
+    offeredBy: "Offered By XYZ Development Group LLC",
+    targetIRR: "21%",
+    imageURL:
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    targetEquityMultiple: "2.01x",
+    targetHoldPeriod: "4 Years",
+    minimumInvestment: "5 Lakhs",
+  },
+  {
+    propertyName: "ABC Nivas, Mumbai",
+    offeredBy: "Offered By XYZ Development Group LLC",
+    targetIRR: "21%",
+    imageURL:
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    targetEquityMultiple: "2.01x",
+    targetHoldPeriod: "4 Years",
+    minimumInvestment: "5 Lakhs",
+  },
+  {
+    propertyName: "ABC Nivas, Mumbai",
+    offeredBy: "Offered By XYZ Development Group LLC",
+    targetIRR: "21%",
+    imageURL:
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    targetEquityMultiple: "2.01x",
+    targetHoldPeriod: "4 Years",
+    minimumInvestment: "5 Lakhs",
+  },
+  {
+    propertyName: "ABC Nivas, Mumbai",
+    offeredBy: "Offered By XYZ Development Group LLC",
+    targetIRR: "21%",
+    imageURL:
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    targetEquityMultiple: "2.01x",
+    targetHoldPeriod: "4 Years",
+    minimumInvestment: "5 Lakhs",
+  },
+  {
+    propertyName: "ABC Nivas, Mumbai",
+    offeredBy: "Offered By XYZ Development Group LLC",
+    targetIRR: "21%",
+    imageURL:
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    targetEquityMultiple: "2.01x",
+    targetHoldPeriod: "4 Years",
+    minimumInvestment: "5 Lakhs",
+  },
+  {
+    propertyName: "ABC Nivas, Mumbai",
+    offeredBy: "Offered By XYZ Development Group LLC",
+    targetIRR: "21%",
+    imageURL:
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    targetEquityMultiple: "2.01x",
+    targetHoldPeriod: "4 Years",
+    minimumInvestment: "5 Lakhs",
+  },
+  {
+    propertyName: "ABC Nivas, Mumbai",
+    offeredBy: "Offered By XYZ Development Group LLC",
+    targetIRR: "21%",
+    imageURL:
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    targetEquityMultiple: "2.01x",
+    targetHoldPeriod: "4 Years",
+    minimumInvestment: "5 Lakhs",
+  },
+  {
+    propertyName: "ABC Nivas, Mumbai",
+    offeredBy: "Offered By XYZ Development Group LLC",
+    targetIRR: "21%",
+    imageURL:
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    targetEquityMultiple: "2.01x",
+    targetHoldPeriod: "4 Years",
+    minimumInvestment: "5 Lakhs",
+  },
+  {
+    propertyName: "ABC Nivas, Mumbai",
+    offeredBy: "Offered By XYZ Development Group LLC",
+    targetIRR: "21%",
+    imageURL:
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    targetEquityMultiple: "2.01x",
+    targetHoldPeriod: "4 Years",
+    minimumInvestment: "5 Lakhs",
+  },
+  {
+    propertyName: "ABC Nivas, Mumbai",
+    offeredBy: "Offered By XYZ Development Group LLC",
+    targetIRR: "21%",
+    imageURL:
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    targetEquityMultiple: "2.01x",
+    targetHoldPeriod: "4 Years",
+    minimumInvestment: "5 Lakhs",
+  },
+];
 
+let html = "";
 
-let html='';
-
-for(i=0;i<propertyList.length;i++)
-{
-    html+=`
+for (i = 0; i < propertyList.length; i++) {
+  html += `
 
    
     
-    <div class="card my-5 mx-2" id="cardId${i}" style="width: 20rem;">
+    <div class="card my-5 mx-5" id="cardId${i}" style="width: 20rem;">
         <img src="${propertyList[i].imageURL}"
             class="card-img-top" alt="...">
         <div class="card-body">
@@ -205,16 +222,11 @@ for(i=0;i<propertyList.length;i++)
             <li class="list-group-item">Minimum Investment <span id="minimumInvestment">${propertyList[i].minimumInvestment}</span></li>
         </ul>
         <div class="d-grid gap-2 col-6 mx-auto my-3">
-            <button class="btn btn-primary" type="button">More Details</button>
+            <button class="btn btn-primary" type="button"><a class = "linkToProp" href="moredetailspage.html">More Details</a></button>
           </div>
     </div>
     
     `;
-
 }
 
-
-
-
-
-document.getElementById("list").innerHTML+=html;
+document.getElementById("list").innerHTML += html;
